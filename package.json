@@ -2,7 +2,7 @@
   "name": "eselogger",
   "module": "index.ts",
   "type": "module",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "devDependencies": {
     "@types/bun": "1.3.14"
   },
